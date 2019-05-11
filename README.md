@@ -1,5 +1,7 @@
 ## Solidum Whitepaper
 
+![banner](whitepaper.jpg)
+
 *Solidum is an open, ditributed computing platform that lets anyone build and use decentralized applications that run on blockchain technology.*
 
 > An introductory paper to Solidum, introduced before launch, which is maintained.
